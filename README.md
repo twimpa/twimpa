@@ -1,1 +1,2 @@
-# Tiny Web Image Processing and Analysis
+# TWIMPA
+Tiny Web Image Processing and Analysis
